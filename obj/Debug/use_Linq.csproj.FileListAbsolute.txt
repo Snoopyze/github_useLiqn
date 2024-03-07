@@ -1,0 +1,6 @@
+D:\223LTC01\D01\use_Linq\use_Linq\bin\Debug\use_Linq.exe
+D:\223LTC01\D01\use_Linq\use_Linq\bin\Debug\use_Linq.pdb
+D:\223LTC01\D01\use_Linq\use_Linq\obj\Debug\use_Linq.csproj.AssemblyReference.cache
+D:\223LTC01\D01\use_Linq\use_Linq\obj\Debug\use_Linq.csproj.CoreCompileInputs.cache
+D:\223LTC01\D01\use_Linq\use_Linq\obj\Debug\use_Linq.exe
+D:\223LTC01\D01\use_Linq\use_Linq\obj\Debug\use_Linq.pdb
